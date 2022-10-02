@@ -77,7 +77,7 @@ function App() {
           />
         </div>
       </MaxWidthWrapper>
-
+      <div className={styles.backgroundBar}></div>
       <div className={styles.characterWrapper}>
         <Character
           body={body}
